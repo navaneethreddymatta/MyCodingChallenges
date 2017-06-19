@@ -9,8 +9,7 @@ class Vehicle{
     }
     public void own(){
         System.out.println("Vehicles are owned by me!!");
-    }
-         
+    }         
 }
 
 class MotorBike extends Vehicle{
